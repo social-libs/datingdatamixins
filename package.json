@@ -1,0 +1,27 @@
+{
+  "name": "social_datingdatamixinslib",
+  "version": "1.0.0",
+  "description": "AllexJS mixins lib for a Data Service that models a Dating social User record",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/social-libs/datingdatamixins.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "social",
+    "dating",
+    "data",
+    "mixins",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/social-libs/datingdatamixins/issues"
+  },
+  "homepage": "https://github.com/social-libs/datingdatamixins#readme"
+}
